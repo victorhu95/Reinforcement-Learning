@@ -8,7 +8,7 @@ Q1: In ε-greedy action selection, for the case of two actions and ε = 0.5, wha
   1. The probability of taking the greedy action directly $(1-\epsilon=0.5)$.
   2. The probability of taking the greedy action when a random action is selected $(0.25)$.
   So, the total probability of taking the greedy action would be:
-  $$
+  $
   \text { Probability of taking greedy action }=(1-\epsilon)+\left(\epsilon \times \frac{1}{2}\right)
-  $$
+  $
 
